@@ -1,5 +1,11 @@
 # terraform-server-configuration
+
 configure existing server(s) with terraform
+
+## How
+
+main.tf contains the commands to be run on all remote servers, listed in servers.tfvars
+
 
 ## Prereq.
 
